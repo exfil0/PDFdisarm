@@ -32,7 +32,7 @@ Use it at your own risk.
 
 2. **Clone or Download** this script:
    ```bash
-   git clone https://github.com/exfil0/advanced-pdf-scanner.git
+   git clone https://github.com/exfil0/PDFdisarm.git
    ```
    *(If this is just an example—use your preferred distribution method.)*
 
