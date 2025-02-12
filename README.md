@@ -1,9 +1,5 @@
 # Advanced PDF Analysis & Disarm Tool
 
-Author: **Exfil0**  
-Version: **0.2.9**  
-Date: **2025/02/12**
-
 ## Overview
 
 This tool scans, analyzes, and optionally “disarms” PDF files. It provides:
